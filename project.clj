@@ -1,4 +1,4 @@
-(defproject metrics-server "1.0.0"
+(defproject metricsserver "1.0.0"
   :description "Sample server for stunents labwork"
   :license {:name "Apache 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
